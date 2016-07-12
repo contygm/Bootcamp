@@ -105,13 +105,13 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	**Review On Tuesday<br>No Class Monday**         	|		|	Sat<br	>	November 19, 2016	|		|
 |	REMN Stack Development<br>(React Express MongoDB Node)<br>+ **Where Are You? (Assessment)**    	|	19.3	|	Tue<br	>	November 22, 2016	|		|
 |	Interview Question Blitz                        	|		|	Thu<br	>	November 24, 2016	|		|
-|	Meteor.js<br> + Final Project Definitions            	|	20.1	|	Sat<br	>	November 26, 2016	|		|
+|	Django<br> + Final Project Definitions            	|	20.1	|	Sat<br	>	November 26, 2016	|		|
 |	**Extra Help Day Monday**<br>**Career Event On Tuesday**     	|		|	Tue<br	>	November 29, 2016	|		|
-|	Meteor.js	|	20.2	|	Thu<br	>	December 1, 2016	|		|
-|	Meteor.js	|	20.3	|	Sat<br	>	December 3, 2016	|		|
-|	Meteor.js	|	21.1	|	Tue<br	>	December 6, 2016	|		|
-|	Meteor.js	|	21.2	|	Thu<br	>	December 8, 2016	|		|
-|	Meteor.js	|	21.3	|	Sat<br	>	December 10, 2016	|		|
+|	Django	|	20.2	|	Thu<br	>	December 1, 2016	|		|
+|	Django	|	20.3	|	Sat<br	>	December 3, 2016	|		|
+|	Django	|	21.1	|	Tue<br	>	December 6, 2016	|		|
+|	Django	|	21.2	|	Thu<br	>	December 8, 2016	|		|
+|	Django	|	21.3	|	Sat<br	>	December 10, 2016	|		|
 |	Computer Science Fundamentals <br>Project Work     	|	22.1	|	Tue<br	>	December 13, 2016	|		|
 |	Computer Science Fundamentals <br>Project Work     	|	22.2	|	Thu<br	>	December 15, 2016	|		|
 |	Computer Science Fundamentals <br>Project Work     	|	22.3	|	Sat<br	>	December 17, 2016	|		|
