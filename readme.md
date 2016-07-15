@@ -30,7 +30,7 @@ You must give a full effort on every group and individual project.
 [Slack Room (UPDATE)]()
 
 [Absence Request Form](
-https://docs.google.com/forms/d/1TWyP06dXhUFj6rQW9TqOgVI-Lxrlmm0c9wchEZG8QPw/edit?usp=sharing)
+https://docs.google.com/forms/d/e/1FAIpQLScIhlcG9KPFZu33PW94-onZImcTUihRibdBTqhK1WzuzX7_yA/viewform)
 
 [Weekly Student Feedback Form (UPDATE)]()
 
