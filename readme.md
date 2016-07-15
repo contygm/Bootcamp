@@ -29,9 +29,8 @@ You must give a full effort on every group and individual project.
 
 [Slack Room (UPDATE)]()
 
-[Absence Request Form (UPDATE)]()
-
-[Student x Student Tutoring Form (UPDATE)]()
+[Absence Request Form](
+https://docs.google.com/forms/d/1TWyP06dXhUFj6rQW9TqOgVI-Lxrlmm0c9wchEZG8QPw/edit?usp=sharing)
 
 [Weekly Student Feedback Form (UPDATE)]()
 
