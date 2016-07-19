@@ -47,7 +47,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	---	|	---:	|	---:			|	:---:	|
 |	Kickoff / The Zen of Coding	|	1.1	|	Tue<br	>	July 12, 2016	|		|
 |	HTML & CSS Intro     	|	1.2	|	Thu<br	>	July 14, 2016	|		|
-|	HTML CSS Git     	|	1.3	|	Sat<br	>	July 16, 2016	|		|
+|	HTML CSS Git     	|	1.3	|	Sat<br	>	July 16, 2016	| [Heroes of CSS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64ff162f-157d-48d2-8658-935991c770fd)		|
 |	Review + Git Branching & Heroku    	|	2.1	|	Tue<br	>	July 19, 2016	| 		|
 |	Branching & Bootstrap     	|	2.2	|	Thu<br	>	July 21, 2016	|		|
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 23, 2016	|		|
