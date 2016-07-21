@@ -1,7 +1,20 @@
 .paragraphs {
 	font-size: 18px;
-	font-family: "Lucida Console", monospace; 
+	font-family: 'Indie Flower', cursive; 
 	font-weight: bold;
 	line-height: 1.5;
+
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+}
+
+h3 {
+	font-family: 'Lobster', cursive;
+}
+
+h4 {
+	font-family: 'Dosis', sans-serif;
 
 }
