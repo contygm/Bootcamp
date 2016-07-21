@@ -36,7 +36,22 @@ https://docs.google.com/forms/d/e/1FAIpQLScIhlcG9KPFZu33PW94-onZImcTUihRibdBTqhK
 
 [Homework Submission](http://bootcampspot.com)
 
-Live Office Hours: 45 minutes before class and 30 minutes after class
+Live Office Hours:   45 minutes before class and 30 minutes after class
+<br>
+<br>
+Tuesday & Thursday: 5:45pm-6:00pm Located in the Willow Lounge (unless in use for an event/program).
+                    <br>
+                    <br>
+                    6:00pm-6:30pm students can use the classroom. 
+                    <br>
+                    <br>
+                    9:30pm-10:00pm in the classroom.
+                    <br>
+                    <br>
+Saturday: 9:15am-10am in the classroom
+                    <br>
+                    <br>
+          2:00pm-2:30pm in Willow Lounge (unless in use for event/program)
 
 -----------------------------------------
 ## Curriculum By Week
