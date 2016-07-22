@@ -18,3 +18,19 @@ h4 {
 	font-family: 'Dosis', sans-serif;
 
 }
+
+a {
+	color: green;
+}
+
+a:hover {
+	color: lime;
+}
+
+a:active {
+	color: blue;
+}
+
+a:focus{
+	color: yellow;
+}
