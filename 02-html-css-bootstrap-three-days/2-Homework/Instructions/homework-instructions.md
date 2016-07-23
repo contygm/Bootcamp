@@ -44,7 +44,7 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 5. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.*
 
 ### Assignment Two Instructions (Bootstrap)
-1. Create an `assignment2` repo on GitHub and clone it to your computer. Inside your cloned repo, create `index.html`, `portfolio.html` and `contact.html`.
+1. Navigate to `assignment2` within your `Portfolio` repo.  Create `index.html`, `portfolio.html` and `contact.html`.
 
 2. Find a Bootstrap theme that you like (or make your own!). There are plenty of free options available, or you can pay for one if you choose. Here are a few site where you can find themes.
   * [Wrap Bootstrap](https://wrapbootstrap.com/themes/portfolios)
