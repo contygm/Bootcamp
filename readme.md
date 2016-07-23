@@ -42,7 +42,7 @@ Live Office Hours:   45 minutes before class and 30 minutes after class
 Tuesday & Thursday: 5:45pm-6:00pm Located in the Willow Lounge (unless in use for an event/program).
                     <br>
                     <br>
-                    6:00pm-6:30pm students can use the classroom. 
+                    6:00pm-6:30pm students can use the classroom.
                     <br>
                     <br>
                     9:30pm-10:00pm in the classroom.
@@ -64,7 +64,7 @@ Saturday: 9:15am-10am in the classroom
 |	HTML & CSS Intro     	|	1.2	|	Thu<br	>	July 14, 2016	|		|
 |	HTML CSS Git     	|	1.3	|	Sat<br	>	July 16, 2016	| [Heroes of CSS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64ff162f-157d-48d2-8658-935991c770fd)		|
 |	Review + Git Branching & Heroku    	|	2.1	|	Tue<br	>	July 19, 2016	| 	[Going Live](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf2241af-f462-48d0-9aa4-94b75a2054e2)	|
-|	Branching & Bootstrap     	|	2.2	|	Thu<br	>	July 21, 2016	|		|
+|	Branching & Bootstrap     	|	2.2	|	Thu<br	>	July 21, 2016	|	[Down and Dirty CSS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebbe22a8-1109-45ec-a432-a60d5a867dfd)	|
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 23, 2016	|		|
 |	Intro to JavaScript     	|	3.1	|	Tue<br	>	July 26, 2016	| 		|
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Thu<br	>	July 28, 2016	|		|
