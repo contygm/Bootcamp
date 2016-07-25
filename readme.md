@@ -65,7 +65,7 @@ Saturday: 9:15am-10am in the classroom
 |	HTML CSS Git     	|	1.3	|	Sat<br	>	July 16, 2016	| [Heroes of CSS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64ff162f-157d-48d2-8658-935991c770fd)		|
 |	Review + Git Branching & Heroku    	|	2.1	|	Tue<br	>	July 19, 2016	| 	[Going Live](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf2241af-f462-48d0-9aa4-94b75a2054e2)	|
 |	Branching & Bootstrap     	|	2.2	|	Thu<br	>	July 21, 2016	|	[Down and Dirty CSS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebbe22a8-1109-45ec-a432-a60d5a867dfd)	|
-|	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 23, 2016	|		|
+|	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 23, 2016	|	[Behold Bootstrap!](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9546a4c2-5a13-4008-9a37-408a0d3ed3f9)	|
 |	Intro to JavaScript     	|	3.1	|	Tue<br	>	July 26, 2016	| 		|
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Thu<br	>	July 28, 2016	|		|
 |	Objects & Functions     	|	3.3	|	Sat<br	>	July 30, 2016	|		|
