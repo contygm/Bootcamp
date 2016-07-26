@@ -41,9 +41,10 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 4. Be sure to include the `viewport` tag in all your html files, otherwise your media-queries won't function like you'd expect on mobile devices.
 
-5. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.*
+5. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
 
 ### Assignment Two Instructions (Bootstrap)
+
 1. Navigate to `assignment2` within your `Portfolio` repo.  Create `index.html`, `portfolio.html` and `contact.html`.
 
 2. Find a Bootstrap theme that you like (or make your own!). There are plenty of free options available, or you can pay for one if you choose. Here are a few site where you can find themes.
@@ -64,6 +65,48 @@ You will be fully capable of doing this homework by the end of Saturday's class.
   * `heroku login`
   * `heroku create`
   * `git push heroku master`
+
+### Notes on Heroku
+
+A few important considerations for hosting HW2 on Heroku -- since the project structure for HW2 looks like this:
+
+```
+  portfolio/
+    - /assignment1
+        assets/
+        index.html
+    - /assignment2
+        assets/
+        index.html
+```
+
+You'll want to add only one copy of `composer.json` and `index.php` at the 
+root directory of your project, `portfolio`, instead of having them nested 
+within `assignment1/` and `assignment2/`.  For example:
+
+
+```
+  portfolio/
+    index.php
+    composer.json
+    - /assignment1
+        assets/
+        index.html
+    - /assignment2
+        assets/
+        index.html
+```
+
+Now when you run `git push heroku master` or `git push orign master`, all updates to assignment1 and assignment2 will 
+be pushed.  Because of this nested structure, you'll be viewing both projects by navigating to the same sub-domain 
+and domain *but* with a path pointing to either `assignment1` or `assignment2`, like this:
+
+`volatile-penguin-02324.herokuapp.com/assignment1/index.html`
+
+and
+
+`volatile-penguin-02324.herokuapp.com/assignment2/index.html`
+
 
 ### Submitting Your Work on [BootcampSpot.com](http://bootcampspot.com/)
 
