@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Javascript Content!</title>
+    <script   src="http://code.jquery.com/jquery-3.1.0.js"   integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk="   crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -29,7 +30,7 @@
 
     // Create code that "grabs" the div with the matching id (#drinkOptions);
     // ...
-    var drinkDiv = document.getElementById("drinkOptions");
+    // var drinkDiv = document.getElementById("drinkOptions");
 
     // ...
 
@@ -39,9 +40,13 @@
 	// ...
 
     for (var i = 0; i < drinkList.length; i++){
-        var newDrinkDiv = document.createElement("newDrinkDiv");
-        newDrinkDiv.innerHTML = drinkList[i] + "<br>";
-        drinkDiv.appendChild(newDrinkDiv);
+        // var newDrinkDiv = document.createElement("newDrinkDiv");
+        // newDrinkDiv.innerHTML = drinkList[i] + "<br>";
+        // drinkDiv.appendChild(newDrinkDiv);
+        
+        var newDrinkDiv = $('<div>' + drinkList[i] + '</div>');
+        $("#drinkOptions").append(newDrinkDiv);
+
     }
 
 
