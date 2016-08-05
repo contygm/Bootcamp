@@ -70,7 +70,7 @@ Saturday: 9:15am-10am in the classroom
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Thu<br	>	July 28, 2016	|	[Jumping for JS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b257df48-aea9-40c8-b52a-b7ead78a39c8)	|
 |	Objects & Functions     	|	3.3	|	Sat<br	>	July 30, 2016	|		|
 |	Intro to jQuery     	|	4.1	|	Tue<br	>	August 2, 2016	|		|
-|	JavaScript Scope + jQuery Continued     	|	4.2	|	Thu<br	>	August 4, 2016	|		|
+|	JavaScript Scope + jQuery Continued     	|	4.2	|	Thu<br	>	August 4, 2016	|[JS and JQuery Jubilee] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc1ca851-609e-4c7e-91f1-78db093ca0c6) |		|
 |	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	August 6, 2016	|		|
 |	Review + Timers     	|	5.1	|	Tue<br	>	August 9, 2016	|		|
 |	Interview Question Blitz     	|		|	Thu<br	>	August 11, 2016	|		|
