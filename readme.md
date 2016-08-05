@@ -68,9 +68,9 @@ Saturday: 9:15am-10am in the classroom
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 23, 2016	|	[Behold Bootstrap!](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9546a4c2-5a13-4008-9a37-408a0d3ed3f9)	|
 |	Intro to JavaScript     	|	3.1	|	Tue<br	>	July 26, 2016	| 	[Joys of JS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e1e631a-794f-43f6-87f3-9eab9e32ba4d)	|
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Thu<br	>	July 28, 2016	|	[Jumping for JS](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b257df48-aea9-40c8-b52a-b7ead78a39c8)	|
-|	Objects & Functions     	|	3.3	|	Sat<br	>	July 30, 2016	|		|  [JavaScript Juggernauts] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07eefca9-b8b0-4f98-8ce4-f8c45e3e91f8) |
-|	Intro to jQuery     	|	4.1	|	Tue<br	>	August 2, 2016	|		|    [JQuery $(Begins)] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39885031-c11c-4b7d-b12d-767e1b27f2fc) |
-|	JavaScript Scope + jQuery Continued     	|	4.2	|	Thu<br	>	August 4, 2016	|[JS and JQuery Jubilee] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc1ca851-609e-4c7e-91f1-78db093ca0c6) |		|
+|	Objects & Functions     	|	3.3	|	Sat<br	>	July 30, 2016	|		| 
+|	Intro to jQuery     	|	4.1	|	Tue<br	>	August 2, 2016	|		    | 
+|	JavaScript Scope + jQuery Continued     	|	4.2	|	Thu<br	>	August 4, 2016	| [JS and JQuery Jubilee] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc1ca851-609e-4c7e-91f1-78db093ca0c6)	|
 |	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	August 6, 2016	|		|
 |	Review + Timers     	|	5.1	|	Tue<br	>	August 9, 2016	|		|
 |	Interview Question Blitz     	|		|	Thu<br	>	August 11, 2016	|		|
