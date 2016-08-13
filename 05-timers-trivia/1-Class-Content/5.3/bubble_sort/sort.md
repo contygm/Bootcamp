@@ -1,6 +1,5 @@
-# Sort
+#Sort
 Write a function that sorts an array of numbers in order. Use the starter code provided below, and have the unsorted array show in the `#start` div.
-
 When the user clicks the `button`, the sorted result should be displayed in the `#result` div.
 
 You can use this array in your JavaScript code:
