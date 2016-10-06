@@ -1,0 +1,18 @@
+{
+  "name": "geocoder",
+  "version": "1.0.0",
+  "description": "geocoder",
+  "main": "geocoder",
+  "scripts": {
+    "test": "geocoder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "someone",
+  "license": "UNLICENSED"
+}

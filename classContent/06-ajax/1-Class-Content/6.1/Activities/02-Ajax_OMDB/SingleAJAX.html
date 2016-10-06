@@ -8,11 +8,18 @@
 <script type="text/javascript">
 	var title = 'space+jam';
 	var queryURL = "http://www.omdbapi.com/?t=" + title + "&y=&plot=short&r=json";
+	var query2URL = "http://www.omdbapi.com/?t=frozen&y=&plot=short&r=json&tomatoes=true";
 
 	$.ajax({url: queryURL, method: 'GET'}).done(function(response) {
 	     console.log(response);
 
 	     console.log(response.Runtime)
+	}); 
+
+	$.ajax({url: query2URL, method: 'GET'}).done(function(response) {
+	     console.log(response);
+
+	     console.log(response);
 	}); 
 
 </script>

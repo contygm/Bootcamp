@@ -16,6 +16,7 @@
                     <th>Movie Name</th>
                     <th>Year</th>
                     <th>Actors</th>
+                    <th>Poster</th>
                 </tr>
             </thead>
             <tbody>
@@ -24,13 +25,16 @@
                     <td>BLAH</td>
                     <td>BLAH</td>
                     <td>BLAH</td>
-                </tr>
-                <tr>
-                    <td>BLAH</td>
-                    <td>BLAH</td>
                     <td>BLAH</td>
                 </tr>
                 <tr>
+                    <td>BLAH</td>
+                    <td>BLAH</td>
+                    <td>BLAH</td>
+                    <td>BLAH</td>
+                </tr>
+                <tr>
+                    <td>BLAH</td>
                     <td>BLAH</td>
                     <td>BLAH</td>
                     <td>BLAH</td>
@@ -59,9 +63,60 @@
             firstRowTds.eq(1).text(response.Year);
 
             firstRowTds.eq(2).text(response.Actors);
+
+            firstRowTds.eq(3).html("<img src ='" + response.Poster +"' height = 250px width= 250px>");
         });
 
         //step 2: copy the above 
+
+        var type2 = 'star+wars';
+        var query2URL = "http://www.omdbapi.com/?t=" + type2 + "&y=&plot=short&r=json";
+
+
+        $.ajax({
+            url: query2URL,
+            method: 'GET'
+        })
+        .done(function(response) {
+            console.log(response);
+
+            // Example Movie
+            var firstRowTds = $('table').children().eq(1).children('tr').eq(1).children('td');
+
+            firstRowTds.eq(0).text(response.Title);
+
+            firstRowTds.eq(1).text(response.Year);
+
+            firstRowTds.eq(2).text(response.Actors);
+
+            firstRowTds.eq(3).html("<img src ='" + response.Poster +"' height = 250px width= 250px>");
+
+        });
+
+        var type3 = 'toy+story';
+        var query3URL = "http://www.omdbapi.com/?t=" + type3 + "&y=&plot=short&r=json";
+
+
+        $.ajax({
+            url: query3URL,
+            method: 'GET'
+        })
+        .done(function(response) {
+
+            console.log(response);
+
+            // Example Movie
+            var firstRowTds = $('table').children().eq(1).children('tr').eq(2).children('td');
+
+
+            firstRowTds.eq(0).text(response.Title);
+
+            firstRowTds.eq(1).text(response.Year);
+
+            firstRowTds.eq(2).text(response.Actors);
+
+            firstRowTds.eq(3).html("<img src ='" + response.Poster +"' height = 250px width= 250px>");
+        });
 
         
     </script>

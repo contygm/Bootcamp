@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Click Button with Firebase!</title>
+
+	<!--  -->
+	<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
+</head>
+<body>
+
+	<!--  -->
+	<h1>Ouch! You've clicked me <span id="clickValue"></span> times!</h1>
+
+	<!--  -->
+	<button id="clickButton">Click Me!!!!</button>
+
+
+	<!--  -->
+	<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+	
+
+<!-- ================================================================================== -->
+
+	<script>
+
+	// get app info and configure
+	var config = {
+		apiKey: "AIzaSyAJS4YQWU5DmESeYueG1qH1NGkjv3DncEY",
+		authDomain: "fir-click-counter-7cdb9.firebaseapp.com",
+		databaseURL: "https://fir-click-counter-7cdb9.firebaseio.com",
+		storageBucket: "fir-click-counter-7cdb9.appspot.com",
+	};
+	firebase.initializeApp(config);
+
+	// VARIABLES
+	// --------------------------------------------------------------------------------
+
+	// make your life easier with a variable for sending infor to the database
+	var database = firebase.database();
+
+	// keep count of clicks
+	var clickCounter = 0;	
+	
+
+	// FUNCTIONS + EVENTS
+	// --------------------------------------------------------------------------------
+
+	// do the thing on the click
+	$("#clickButton").on("click", function() {
+
+		// update counter
+		clickCounter++;
+
+		// send amount of clicks to the database for storage
+		database.ref().set({
+			clickCount: clickCounter
+		});
+	})
+
+	// MAIN PROCESS + INITIAL CODE
+	// --------------------------------------------------------------------------------
+
+	//when database called/when database value changes .... value is like click
+	database.ref().on("value", function(snapshot) {
+
+		// log the database count of the clicks
+		console.log(snapshot.val());
+
+		// send click count from database to html
+		$("#clickValue").html(snapshot.val().clickCount);
+
+		//  set clickcounter = to database count
+		clickCounter = snapshot.val().clickCount;
+
+	// if error happens
+	}, function (errorObject) {
+
+		// let's you know there's an error
+	  	console.log("The read failed: " + errorObject.code);
+	
+	});
+
+	</script>
+
+</body>
+</html>
