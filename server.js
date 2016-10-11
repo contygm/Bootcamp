@@ -1,7 +1,15 @@
+
+
+// ** Bonus **
+// Generate the good / bad phrase randomly from a list of predefined phrases
+// Use the twitter package inside the response to also return a random tweet!
+
+
 var http = require('http');
 
-//Lets define a port we want to listen to
-var PORT = 8080;
+//7000 = good; 7500 = bad
+var PORT = 7000;
+var PORT2 = 7500;
 
 //We need a function which handles requests and send response
 function handleRequest(request, response){
@@ -16,6 +24,11 @@ var server = http.createServer(handleRequest);
 
 server.listen(PORT, function(){
     //Callback triggered when server is successfully listening. Hurray!
-    console.log("Server listening on: http://localhost:%s", PORT);
+    console.log("Server1 listening on: http://localhost:%s", PORT);
+});
+
+server.listen(PORT2, function(){
+    //Callback triggered when server is successfully listening. Hurray!
+    console.log("Server2 listening on: http://localhost:%s", PORT);
 });
 

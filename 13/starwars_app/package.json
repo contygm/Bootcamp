@@ -1,0 +1,15 @@
+{
+  "name": "starwars_app",
+  "version": "1.0.0",
+  "description": "trying out servers",
+  "main": "server1.js",
+  "dependencies": {
+    "body-parser": "^1.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "contygm",
+  "license": "ISC"
+}
